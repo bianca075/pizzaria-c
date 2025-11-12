@@ -1,0 +1,4 @@
+1- Para visualizar melhor expanda bem a aba do terminal;
+2- Para compilar digite "gcc projeto.c pizza.c -o pizza" no terminal;
+3- Para rodar digite "./pizza.exe" no terminal;
+4- Divirta-se!
