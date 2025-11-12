@@ -1,4 +1,4 @@
-# 🍕 Pizzada Certa — Sistema de Gerenciamento de Pizzaria em C
+# 🍕 Pizzada Certa — Sistema de Gerenciamento em C
 
 Um sistema completo em **linguagem C** para gerenciamento de pizzaria via terminal, com cadastro, consulta e exclusão de clientes, validação de CPF, realização de pedidos e gravação em arquivos.  
 Feito para fins acadêmicos e de aprendizado em programação estruturada.
@@ -56,17 +56,17 @@ Feito para fins acadêmicos e de aprendizado em programação estruturada.
 
 ## Estrutura Lógica
 
-  main(): controla o menu principal.
-  Cadastro e validação: funções de leitura, escrita e verificação de CPF.
-  Pedidos: cálculo de total e gravação no arquivo pedidos.txt.
-  QuickSort e busca binária: ordenação e consulta eficiente de clientes.
+  - main(): controla o menu principal.
+  - Cadastro e validação: funções de leitura, escrita e verificação de CPF.
+  - Pedidos: cálculo de total e gravação no arquivo pedidos.txt.
+  - QuickSort e busca binária: ordenação e consulta eficiente de clientes.
 
 #
 
 ##  Arquivos Gerados
 
-  clientes.txt → armazena dados dos clientes cadastrados.
-  pedidos.txt → guarda o histórico de pedidos realizados.
+  - clientes.txt → armazena dados dos clientes cadastrados.
+  - pedidos.txt → guarda o histórico de pedidos realizados.
   
 Ambos são atualizados automaticamente a cada ação no sistema.
 
