@@ -18,13 +18,14 @@ Feito para fins acadêmicos e de aprendizado em programação estruturada.
 #
 
 ## Estrutura do Projeto
+```
 ├── projeto.c # Arquivo principal (menu e lógica central)
 ├── pizza.c # Tela inicial com arte ASCII e inicialização
 ├── pizza.h # Cabeçalho com definição da função pizza()
 ├── instruções.txt # Instruções básicas de compilação e execução
 ├── clientes.txt # Gerado automaticamente - dados de clientes
 ├── pedidos.txt # Gerado automaticamente - dados de pedidos
-
+```
 
 #
 
